@@ -1,0 +1,21 @@
+input{
+    padding: 12px;
+    background-color: rgb(213, 235, 240);
+    /* border: none; */
+    /* border-bottom: black;
+    border-left: blue; */
+    border: none
+    /* border-radius: 10px; */
+  }
+
+  .err{
+    color: red;
+  }
+
+  h3{
+    text-align: center;
+    color: red;
+    }
+
+
+  
